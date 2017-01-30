@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-9f830f0dee1fb65ce22e68f7b53dd9b121249f75.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-eff63d7ed2ff645ff3cb84dd26a4f5a4b38c3734.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-8aa921c7c8da29dbdd7f861f131ec6e9e303e9d2.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-51a3fc59a1b13a45a887f774f9938509ab4849b3.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-bbe51c83293549ac405dc2b64b804e3dbbb3f9b6.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-3f3480db2eebd73d1df15f6ff156aa9d8b247141.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-6d380edb7a2b835e3bbc6647672fc9783bf18d1d.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-8659a65aeea27d94e226499332f33a69f4d45c84.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-bf6591f2ceb08e35f45131a3b04ce6d0d73c22c2.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-b8b1e4c27617d27a8a45de9da2e7d122356c2a7e.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-e9d02f803eff98151014697a3405ce929e520e4a.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/RUMBLEGRUMBLE/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e5e6af78bbf15e999af0262f099e02c0a0d3440">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-1c4942690799bc72b333e8d7fdbcfb365feeb75c.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-602ac0aa7da8891f45ce7a86944d960c193dc092.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-7dd6817820630990b734b3463269f0c24a808be3.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-41c89df2ca81688a305de39833358b8cbdf85401.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-9b4436f3e29e337797920548f58abc490da5ff10.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-bbe5baae3d1f84c1ebae33e913c5887177426fcd.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-dc7a0a9c436f7371d7efe6521b9c3ed5afcc755d.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-1ca3616ef69e98e4502a5f23583b43b017ec401a.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-d7ead86afe16c95807040328885bffeac21661d6.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-5f188c7d3a008762e1c06b8370c2781e4733c982.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-a343799b91a18b3fd6e7cbfb9adff0c72cd6f372.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-9d7c97b0e4d5506fbdc49a35933f3bc456efa962.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-c0cadfdbda0e2e1a10213918453b6058698b3830.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-6a7c047a60100f2c1284da677652c1b23c677da9.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-1d326711221e21ab93013649135b5ab4df8940ad.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-a3abd20ab5444ff4f05cbdc2d454ad521e2301ca.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-668daf3f79aa1cfc202d5397fd044e0baeff9e69.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-3831f91391e4a507caeceb3e71615be8aa16b1fc.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-2fa6b4e5f958b71b3023517f2ae661dc845cc578.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-f5dc652eef6438358546607023e701134c8a22d1.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-fdab5f04e9ba4bbf6690bcfa0da86c77f02b0f84.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-714e18197f783a27147e39523bfa7ba60f144708.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/RUMBLEGRUMBLE/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="afa8d39178e52e9c763ed3a646fbac8f2d6fed97">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-e8aa3d30643f4efa356c020ef3878e1359395d76.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/shaanobney/Desktop/react-holder/android/app/build/intermediates/pre-dexed/debug/classes-a7102e7c198360251a4335c04fa09363b38d0264.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-8b1842717386004b8303dece3b2e98a0ae61af69.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-66120671d346a4bb2f0efab95741d1cbbbe91325.jar" />
+    </item>
+    <item
+        jar="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/shaanobney/Desktop/react-template/android/app/build/intermediates/pre-dexed/debug/classes-f82295aacbd8c4fcb57c93b9c46781c75502ea67.jar" />
+    </item>
+
+</items>
